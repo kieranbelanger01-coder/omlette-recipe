@@ -1,0 +1,71 @@
+/* =================================
+1. page background and basic reset
+==================================== */
+body {
+    background-color: #f3e5d8;
+    font-family: "outfit",sans-serif;
+    font-size: 16px;
+    color: #333333;
+    margin: 0;
+    padding: 40px 0;
+}
+/* =================================
+2. the white part in the middle
+==================================== */
+
+.card {
+    background-color: #f3e5d8;
+    font-family: "outfit",sans-serif;
+    font-size: 16px;
+    color: #333333;
+    margin: 0;
+    padding: 40px 0;
+}
+
+
+    /* =================================
+3. image
+==================================== */
+img {
+    width: 100%;
+    border-radius: 12px;
+}
+
+  /* =================================
+4. headings and paragraphs
+==================================== */
+
+h1 {
+    font-family: "young serif";
+    font-weight: 400;
+    font-size: 36px;
+    color: #2f2f2f2f;
+    margin: 30px;
+    margin-bottom: 15px
+}
+p  {
+    line-height: 1.6;
+
+}
+  /* =================================
+5. preparation time
+==================================== */
+
+
+ /* =================================
+6. lists
+==================================== */
+
+
+
+
+ /* =================================
+8. nutrition table
+==================================== */
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+
+    
+}
